@@ -1,0 +1,21 @@
+# Ignore PDF downloads
+pdfs/
+*.pdf
+
+# Ignore thumbnail generation
+thumbnails/
+*.png
+*.jpg
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local

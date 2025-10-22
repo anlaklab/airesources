@@ -1,0 +1,55 @@
+{
+  "resource_id": 289,
+  "name": "ServiceNow - AI Maturity Index 2025",
+  "organization": "ServiceNow",
+  "report_type": "REPORT",
+  "year": 2025,
+  "publication_date": "2025-10-22",
+  "short_description": "By Vijay Kotu, Richard McGill Murphy, Brian Solis, and Dorit Zilbershot Impact AI Series Enterprise AI Maturity Index 2025",
+  "long_description": "# ServiceNow - AI Maturity Index 2025\n\n## Overview\nBy Vijay Kotu, Richard McGill Murphy, Brian Solis, and Dorit Zilbershot Impact AI Series Enterprise AI Maturity Index 2025\n\n## Key Findings\n\n1. Realizing value in AI investment\n2. Analytical AI predicts a numerical outcome or\n3. Generative AI generates content in response to natural\n4. Agentic AI creates an orchestration layer across an\n5. Global 2000 companies if they all achieved Pacesetter levels of AI integration.\n6. As you fine-tune your AI strategies and spearhead cultural adoption, consider three things.\n7. Data security concerns rank as the No. 1 barrier to realizing AI value in all industries.\n8. Heavy manufacturing, technology, and retail are most focused on data security.\n9. Simplification: PCA helps condense large amounts of information\n10. Objective representation: PCA ensures that the index reflects\n11. Evan Ramzipoor and Research Editor Stuart Luman.\n\n## Notable Statistics & Metrics\n\n- 1% of respondents scored over 50 on our 100-point AI maturity scale. The highest score fell a\n- Forbes Global 2000 list were Pacesetters. In aggregate, this could produce a $113 billion\n- (67%) say AI has increased their organization’s gross\n- increased an average of 11%.\n- investment in AI to increase by about 8.6% on average in\n- About 40% of executives are considering adding agentic AI tools to their tech stack\n- under 1% of the sample, scored over 50.\n- Pacesetters make up just 18.2% of respondents.\n- became a Pacesetter, there could be a $113 billion increase in total gross\n- company could see an increase of $56 million in gross margin.\n- contributors to the potential $113 billion boost in profitability:\n- 53% of have made\n\n## Resource Information\n\n- **Pages:** 30\n- **File Size:** 19.24 MB\n- **Author:** ServiceNow\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "ServiceNow"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/ServiceNow_-_AI_Maturity_Index_2025.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/ServiceNow_-_AI_Maturity_Index_2025.png"
+  ],
+  "primary_links": [
+    "https://www.servicenow.com/workflow/hyperautomation-low-code/enterprise-ai-maturity-index-2025.html"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

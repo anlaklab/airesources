@@ -1,0 +1,55 @@
+{
+  "resource_id": 404,
+  "name": "Bain - Technology Report 2024",
+  "organization": "Bain",
+  "report_type": "REPORT",
+  "year": 2024,
+  "publication_date": "2025-10-22",
+  "short_description": "3 Technology Report 2024 Examples of generative AI bene/f.shortits across functions Customer service and contact centers Sales and marketing time reduction for manual responses less time spent on content creation 20% -35% 30% -50% Software product development Back o/f_f.shortice and other productivity time reduction in coding-related activities task automation for document comparison 15% 20% -50% ",
+  "long_description": "# Bain - Technology Report 2024\n\n## Overview\nThis work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment, and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does not constitute advice of any kind, is not intended to be used for investment purposes, and neither Bain & C\n\n## Key Findings\n\n1. AI. The rapid and massive adoption of AI by companies across sectors will force change in the\n2. Geopolitics and national security. National and regional technology ecosystems are developing\n3. Backlash against tech. The sector is under scrutiny by lawmakers and regulators in several regions\n4. There’s no sign that the industry’s reliance on scope deals to spur growth will end any time soon .\n5. Data center operators will enjoy a short-term windfall, but there’s a real risk of overcapacity .\n6. Now the post-globalization movement in technology is spreading to data, AI, security, and privacy.\n7. National interests: Governments view localized AI as critical for protecting data privacy, ensuring\n8. Infrastructure: Like any utility, physical infrastructure for AI and cloud computing must be built\n9. Regulatory strategies: AI regulatory strategies are diverging across borders. The leading AI markets—\n10. Localization:  Many AI models will need to be specific to local languages and context. Some\n11. Scope of subsidies: Thus far, governments haven’t subsidized national AI initiatives to the extent\n12. Global scale: This still provides critical advantages for developing a winning AI platform, including\n13. Incumbents’ adaptation: Global tech companies are adapting to governments’ push for sovereign\n14. Practical realities: Aspiring domestic competitors must navigate the same practical realities as\n15. Preparing business processes. In deploying AI, companies should avoid automating existing\n\n## Notable Statistics & Metrics\n\n- could be worth up to 20% of EBITDA.\n- 20% -35% 30% -50%\n- companies account for 63% of the market capitalization of the top 20 companies in the sector, up\n- from only 53% a decade ago  (see Figure 2). The top five also represent 64% of the profit pool, nearly\n- twice the amount it was 10 years ago (34%).\n- top-tier position, achieving market cap values of more than $3 trillion in the second quarter of 2024.\n- Amazon) spent $223 billion on R&D, about 1.6 times as much as all venture capital spending in the\n- Figure 3: In 2023, the top five tech companies spent $223 billion on R&D, about 1 .6 times as much\n- 2020 found that 72% of the deals increased competition and reduced prices (see Figure 4).\n- Notes: Includes all outright acquisitions over $300 million (2005–2020) by Amazon, Apple, Facebook, Alphabet, and Microsoft; acquisition labels are\n- Facebook Amazon AlphabetMicrosoftAppleDivested/shut downBubble size$3B\n- profit margin should add up to 40% or more (see Figure 2).\n\n## Technologies & Frameworks Mentioned\n\nTest script \ngeneration\nUnit testing\nSystem, LLMs, Gemini, PaLM, Claude\n\n## Resource Information\n\n- **Pages:** 88\n- **File Size:** 4.86 MB\n- **Publisher:** Adobe InDesign 19.3 (Windows)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Bain"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Bain_-_Technology_Report_2024.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Bain_-_Technology_Report_2024.png"
+  ],
+  "primary_links": [
+    "https://www.bain.com/insights/ais-trillion-dollar-opportunity-tech-report-2024/"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 403
+}

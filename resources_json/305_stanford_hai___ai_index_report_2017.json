@@ -1,0 +1,55 @@
+{
+  "resource_id": 305,
+  "name": "Stanford HAI - AI Index Report 2017",
+  "organization": "Stanford HAI",
+  "report_type": "REPORT",
+  "year": 2017,
+  "publication_date": "2025-10-22",
+  "short_description": "! ! AI INDEX, NOVEMBER 2017 STEERING COMMITTEE Yoav Shoham (chair) Stanford University Raymond Perrault SRI International Erik Brynjolfsson MIT Jack Clark OpenAI PROJECT MANAGER Calvin LeGassick !2",
+  "long_description": "# Stanford HAI - AI Index Report 2017\n\n## Overview\n! ! AI INDEX, NOVEMBER 2017 STEERING COMMITTEE Yoav Shoham (chair) Stanford University Raymond Perrault SRI International Erik Brynjolfsson MIT Jack Clark OpenAI PROJECT MANAGER Calvin LeGassick !2\n\n## Key Findings\n\n1. Towards Human-Level Performance?\n2. The growth of the share of US jobs requiring AI skills on the Indeed.com platform.\n3. The growth of imports of industrial robot units into North America and globally.\n4. The performance of AI systems on a task to recognize speech from phone call audio.\n5. ML courses at Stanford, and VC investments into AI-related startups.\n6. Preparing for the Future of Artificial Intelligence - workshops and interagency\n7. The Administration’s Report on the Future of Artificial Intelligence  - focuses on\n8. 2030 Agenda for Sustainable Development & SDGs\n9. Universal Declaration of Human Rights\n10. Declaration on Rights of Indigenous Peoples\n11. Beijing Declaration and Platform for Action on women’s human rights\n12. Convention on the Rights of Persons with Disabilities\n13. International Covenant on Economic, Social and Cultural Rights\n14. IEEE Ethically Aligned Design General Principles - esp Principle 1 on Human\n15. The Algorithmic Justice League (www.ajlunited.org/), which highlights\n\n## Notable Statistics & Metrics\n\n- papers, relative to their publishing rates in 1996. The graph displays the growth of\n- The growth of the share of US jobs requiring AI skills on the Indeed.com platform.\n- The growth of the share of jobs requiring AI skills on the Indeed.com platform, by\n- Note: Despite the rapid growth of the Canada and UK AI job markets, Indeed.com reports they are\n- respectively still 5% and 27% of the absolute size of the US AI job market.\n- The growth of imports of industrial robot units into North America and globally.\n- from 28.5% to below 2.5% since 2010.\n- Watson won the first place prize of $1 million.\n- 28% in 2010 to less than 3%. Human performance is about 5%.\n- company Mobike 10 months to go from nothing to 20 million orders (or rides) per day.\n- There are over 20 million bicycle rides transmitting their GPS and other sensor\n- there is clearly an exponential growth of meta-AI institutes, organizations,\n\n## Technologies & Frameworks Mentioned\n\nCollection Method, Intelligent \nSystem, Agent System, Intelligent System, Claude-Guy\n\n## Resource Information\n\n- **Pages:** 101\n- **File Size:** 5.55 MB\n- **Publisher:** Edited with pdfresizer.com\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Stanford HAI"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Stanford_HAI_-_AI_Index_Report_2017.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Stanford_HAI_-_AI_Index_Report_2017.png"
+  ],
+  "primary_links": [
+    "https://hai.stanford.edu/ai-index/2017-ai-index-report"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 298
+}

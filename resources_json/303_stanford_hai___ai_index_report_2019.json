@@ -1,0 +1,51 @@
+{
+  "resource_id": 303,
+  "name": "Stanford HAI - AI Index Report 2019",
+  "organization": "Stanford HAI",
+  "report_type": "REPORT",
+  "year": 2019,
+  "publication_date": "2025-10-22",
+  "short_description": "Stanford HAI - AI Index Report 2019. Online resource covering AI developments, research, and industry insights.",
+  "long_description": "# Stanford HAI - AI Index Report 2019\n\n## Overview\nThe 2019 AI Index Report | Stanford HAIStay Up To DateGet the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.Sign Up For Latest NewsNavigateAboutEventsCareersSearchParticipateGet InvolvedSupport HAIContact UsSkip to contentThe 2019 AI Index ReportThe AI Index Report tracks, collates, distills, and visualizes data relating to artificial intelligence.Its mission is to provide unbiased, rigorous, and comprehensive data for policymakers, researchers, journalists, executives, and the general public to develop a deeper understanding of the complex field of AI.2019 AI Index ReportAccess the Public DataPast ReportsSkip Carousel ContentThe 2025 AI Index ReportThe 2024 AI Index ReportWelcome to the seventh edition of the AI Index report. T\n\n## Technologies & Frameworks Mentioned\n\nAutonomous System\n\n## Resource Information\n\n- **Type:** Website\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Stanford HAI"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://hai.stanford.edu/ai-index/2019-ai-index-report"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 298
+}

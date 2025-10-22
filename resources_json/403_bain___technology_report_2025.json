@@ -1,0 +1,55 @@
+{
+  "resource_id": 403,
+  "name": "Bain - Technology Report 2025",
+  "organization": "Bain",
+  "report_type": "REPORT",
+  "year": 2025,
+  "publication_date": "2025-10-22",
+  "short_description": "Value Evolution Will AI Disrupt Tech’s Most Valuable Companies? . . . . . . . . . . . . . . . 4 Sovereign Tech, Fragmented World . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Deals Rise in 2025, But Easy Wins May Be Over . . . . . . . . . . . . . . . 15",
+  "long_description": "# Bain - Technology Report 2025\n\n## Overview\nThis work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment, and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does not constitute advice of any kind, is not intended to be used for investment purposes, and neither Bain & C\n\n## Key Findings\n\n1. Infrastructure. Start-ups like Coreweave offer specialized, high-performance GPU-as-a-service\n2. Models. New players such as OpenAI, Anthropic, and Mistral have quickly gained ground, in many\n3. Applications will still be where we expect to see the most new value and potential disrupters. For\n4. Devices. AI phones could shake up the established smartphone landscape. Consider the potential\n5. Search. Chatbots like ChatGPT, Claude, or Perplexity AI are already starting to displace search as the\n6. Browsers. AI-based browsers like the ones developed by Perplexity and OpenAI could reignite the\n7. Agentic AI. These systems can perform complex workflows, make decisions without human\n8. US-China relations. Geopolitical tensions are fracturing global technology supply chains,\n9. Regulatory pressure. Governments are ramping up scrutiny on data privacy violations and AI safety\n10. Quantum computing. Quantum represents a foundational shift in computation, threatening to make\n11. Incumbent tech leaders. Keep doing what you have been doing: Disrupt, innovate, attract talent,\n12. Legacy technology. Embrace and extend. Act quickly—start by cutting costs. Monitor the horizon\n13. Disrupters and start-ups. Understand the scale of investment required to compete with the\n14. Displacing competitors. This is an imperative in any maturing industry . As penetration curves\n15. Tapping AI. It’ s no secret that artificial intelligence is changing the game in many product categories.\n\n## Notable Statistics & Metrics\n\n- improve EBITDA by 10% to 25%, while laggards fell further behind. Today , those leaders are compounding\n- value at the top. The five biggest companies account for more than 70% of the total market value of the\n- top 20, up from 65% last year. Nvidia’ s market cap is up more than 800% since January 2023, and\n- Microsoft, Amazon, Alphabet, Apple, and Meta are all valued above $2 trillion. The hyperscalers are\n- At the same time, a new set of winners is emerging. Privately owned OpenAI is valued at around $300\n- than $60 billion. Other AI companies, including Glean, Anysphere, Mistral, and Figure, also have huge\n- valuations, ranging from $5 billion to nearly $40 billion. According to CB Insights, there were\n- about 20 times more tech unicorns (start-ups valued at more than $1 billion) added in 2024 compared\n- example, Anysphere, which was founded in 2022 and is currently valued at $9 billion, has rapidly\n- which is valued at more than $6 billion and has fewer than 500 employees, can innovate and iterate\n- China, for its part, is racing toward self-reliance. Since 2019, it has invested more than $250 billion in\n- semiconductor manufacturing, tripling its domestic production capacity to a projected nearly 3 million\n\n## Technologies & Frameworks Mentioned\n\nMCP stands for Model, Banking Industry Architecture, GPT-4o, GPT-3, GPT-4, Transformer, LLMs, LLM-powered, GPT-5, Gemini, Gemini-enabled, Claude, PaLM\n\n## Resource Information\n\n- **Pages:** 77\n- **File Size:** 5.88 MB\n- **Publisher:** Adobe InDesign 20.4 (Windows)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Bain"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Bain_-_Technology_Report_2025.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Bain_-_Technology_Report_2025.png"
+  ],
+  "primary_links": [
+    "https://www.bain.com/insights/topics/technology-report/"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

@@ -1,0 +1,51 @@
+{
+  "resource_id": 311,
+  "name": "OpenAI - Measuring the performance of our models on real-world tasks",
+  "organization": "OpenAI",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": "2025-10-22",
+  "short_description": "OpenAI - Measuring the performance of our models on real-world tasks. Online resource covering AI developments, research, and industry insights.",
+  "long_description": "# OpenAI - Measuring the performance of our models on real-world tasks\n\n## Overview\nMeasuring the performance of our models on real-world tasks | OpenAISwitch toChatGPT(opens in a new window)Sora(opens in a new window)API Platform(opens in a new window)OpenAISeptember 25, 2025PublicationResearchMeasuring the performance of our models on real-world tasks We’re introducing GDPval, a new evaluation that measures model performance on economically valuable, real-world tasks across 44 occupations.Read the paper(opens in a new window)Visit evals.openai.com(opens in a new window)ShareOur mission is to ensure that artificial general intelligence benefits all of humanity. As part of our mission, we want to transparently communicate progress on how AI models can help people in the real world. That’s why we’re introducing GDPval: a new evaluation designed to help us track how well ou\n\n## Technologies & Frameworks Mentioned\n\nPolicyFramework, GPTReasonings, LLMsResearchOct, Claude, Gemini\n\n## Resource Information\n\n- **Type:** Website\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "OpenAI"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://openai.com/index/gdpval/"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

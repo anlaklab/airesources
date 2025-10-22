@@ -1,0 +1,55 @@
+{
+  "resource_id": 405,
+  "name": "Bain - Technology Report 2023",
+  "organization": "Bain",
+  "report_type": "REPORT",
+  "year": 2023,
+  "publication_date": "2025-10-22",
+  "short_description": "Creating Value in Tech Throughout the Life Cycle . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 Preparing for Exit: A Buyer’s Market Is Coming for Tech Assets . . . . . . . . . . . . . . . . 10 AI Investors: Act Fast, Act Wisely . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 Technology Enters Its Post-Globalization Era . . . . . . . . . . . . . . . ",
+  "long_description": "# Bain - Technology Report 2023\n\n## Overview\nThis work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment, and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does not constitute advice of any kind, is not intended to be used for investment purposes, and neither Bain & C\n\n## Key Findings\n\n1. As companies and their markets mature, investors expect a mix of growth and returns .\n2. Early-growth markets may be small, but they are growing fast, disrupting existing industries or\n3. Late-growth markets still benefit from robust growth as they expand and stabilize. TSR is based\n4. Mature markets are relatively stable, with single-digit growth expectations. An incumbent’s\n5. ROIC. Growth is less important, valued only if it’s efficiently funded.\n6. Asset-rich legacy markets may be fighting the gravitational pull of shifting customer needs.\n7. rethinking which markets are most attractive;\n8. reducing portfolio complexity and adopting design-to-value principles to match customer needs;\n9. revisiting ways of working to improve productivity (including AI and automation);\n10. deploying new business models based on asset-light solutions;\n11. pursuing M&A where operational synergies are clear; and\n12. reinvigorating a lean core to ensure new growth.\n13. Engine 2 catalysts, generating a second wave of growth.\n14. A growing backlog of deals, including more than $700 billion of tech assets purchased between\n15. Within software, we see several interdependent trends.\n\n## Notable Statistics & Metrics\n\n- Exits are also down—on average, about $20 billion per quarter in the first half of 2023 compared\n- with $107 billion per quarter in the first half of 2021 and $75 billion per quarter in the first half of\n- 2022. A growing backlog of deals, including more than $700 billion of tech assets purchased between\n- recovers, including more than $700 billion of assets\n- half of tech portfolio companies have been held for more than four years, and 15% have waited more\n- than six years. For the first time since 2012, more than 40% of tech portfolio companies are being held\n- 43% 40% 38% 37% 35% 32% 29%2 9% 30%2 9% 33% 44%\n- Figure 2: Nearly 45% of current tech portfolio companies have been held for longer than four years\n- identified opportunities to raise earnings by about $40 million, mostly through price increases\n- that raise their game from good to great can deliver the greatest punch—on average, a 50% increase\n- led by Microsoft’s $10 billion investment in OpenAI (see Figure 1).\n- 17% 14% 13% 14% 28%\n\n## Technologies & Frameworks Mentioned\n\nNet Promoter System, NICE System, How AI Is Recoding the Software Business Model, Getting the Architecture, Bain Revenue System, AI Is Recoding the Software \nBusiness Model, Getting the  \nArchitecture, Bain Modern Architecture, A Modern Enterprise Architecture, LLMs, LLM-based, BERT, GPT2, GPT3, GPT4\n\n## Resource Information\n\n- **Pages:** 84\n- **File Size:** 12.77 MB\n- **Publisher:** Adobe InDesign 18.5 (Windows)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Bain"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Bain_-_Technology_Report_2023.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Bain_-_Technology_Report_2023.png"
+  ],
+  "primary_links": [
+    "https://www.bain.com/insights/topics/technology-report/2023"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 403
+}

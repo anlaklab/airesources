@@ -1,0 +1,55 @@
+{
+  "resource_id": 288,
+  "name": "ServiceNow - AI Maturity Index 2024",
+  "organization": "ServiceNow",
+  "report_type": "REPORT",
+  "year": 2024,
+  "publication_date": "2025-10-22",
+  "short_description": "Impact AI: Enterprise AI Maturity Index 2024 The race to put AI to work has just begun In partnership with",
+  "long_description": "# ServiceNow - AI Maturity Index 2024\n\n## Overview\nImpact AI: Enterprise AI Maturity Index 2024 The race to put AI to work has just begun In partnership with\n\n## Key Findings\n\n1. Simplification: PCA helps condense large amounts of information from\n2. Objective representation:  PCA ensures that the index reflects the most\n3. It’s a trend that will only accelerate in the coming years.\n4. AI investment over the same period (12.9%).\n5. AI models into their workflows.\n\n## Notable Statistics & Metrics\n\n- than one-third of executives (38%) say they have uncovered automation\n- enterprise goals. A slightly smaller number (32%) are operationalizing AI to\n- drive business objectives. Roughly one in six (18%) claims to be leveraging\n- more likely to say they are transforming and innovating with AI (33% vs. 14%\n- efficiency and productivity (41% “extremely important” responses), better\n- customer experiences (39%), and improved competitive positioning (33%).\n- solutions compared to others (21% vs. 39% others). They more often take a\n- have built themselves (47% vs. 31% others). Pacesetters are also more likely\n- other tools (49% vs. 27% others).\n- two-thirds of those surveyed (64%) have added AI capabilities from new\n- vendors into the mix, while about half (49%) are implementing completely\n- 81% of respondents say the C-suite is actively engaged in AI efforts.\n\n## Technologies & Frameworks Mentioned\n\nMachine learning ops\nModel, LLMs\n\n## Resource Information\n\n- **Pages:** 26\n- **File Size:** 7.89 MB\n- **Publisher:** Adobe InDesign 19.5 (Macintosh)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "ServiceNow"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/ServiceNow_-_AI_Maturity_Index_2024.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/ServiceNow_-_AI_Maturity_Index_2024.png"
+  ],
+  "primary_links": [
+    "https://www.servicenow.com/workflow/hyperautomation-low-code/enterprise-ai-maturity-index-2024.html"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 289
+}

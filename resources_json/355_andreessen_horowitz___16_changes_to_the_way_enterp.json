@@ -1,0 +1,51 @@
+{
+  "resource_id": 355,
+  "name": "Andreessen Horowitz - 16 Changes to the Way Enterprises Are Building and Buying Generative AI",
+  "organization": "Andreessen Horowitz",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": "2025-10-22",
+  "short_description": "Andreessen Horowitz - 16 Changes to the Way Enterprises Are Building and Buying Generative AI. Online resource covering AI developments, research, and industry insights.",
+  "long_description": "# Andreessen Horowitz - 16 Changes to the Way Enterprises Are Building and Buying Generative AI\n\n## Overview\n16 Changes to the Way Enterprises Are Building and Buying Generative AI | Andreessen Horowitz 16 Changes to the Way Enterprises Are Building and Buying Generative AI Sarah Wang and Shangda Xu share Copy Link Email X LinkedIn Facebook Hacker News WhatsApp Flipboard Reddit Back to Operating at Scale Table of Contents Table of Contents Posted March 21, 2024 Generative AI took the consumer landscape by storm in 2023, reaching over a billion dollars of consumer spend1 in record time. In 2024, we believe the revenue opportunity will be multiples larger in the enterprise. Last year, while consumers spent hours chatting with new AI companions or making images and videos with diffusion models, most enterprise engagement with genAI seemed limited to a handful of obvious use cases and shipping “GPT-w\n\n## Key Findings\n\n1. Budgets for generative AI are skyrocketing.\n2. Leaders are starting to reallocate AI investments to recurring software budget lines.\n3. Measuring ROI is still an art and a science.\n4. Implementing and scaling generative AI requires the right technical talent, which currently isn’t in-house for many enterprises.\n5. While cost factored into open source appeal, it ranked below control and customization as key selection criteria.\n6. Desire for control stems from sensitive use cases and enterprise data security concerns.\n7. Leaders generally customize models through fine-tuning instead of building models from scratch.\n8. Cloud is still highly influential in model purchasing decisions.\n9. Customers still care about early-to-market features.\n10. That said, most enterprises think model performance is converging.\n11. Optimizing for optionality.\n12. Enterprises are building, not buying, apps—for now.\n13. Enterprises are excited about internal use cases but remain more cautious about external ones.\n14. We believe total spend on model APIs and fine-tuning will grow to over $5B run-rate by the end of 2024, and enterprise spend will make up a significant part of that opportunity.\n\n## Notable Statistics & Metrics\n\n- 16. We believe total spend on model APIs and fine-tuning will grow to over $5B run-rate by the end of 2024, and enterprise spend will make up a significant part of that opportunity.\n\n## Technologies & Frameworks Mentioned\n\nGPT-wrapper, LLM-powered, LLMs\n\n## Resource Information\n\n- **Type:** Website\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Andreessen Horowitz"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://a16z.com/generative-ai-enterprise-2024/"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

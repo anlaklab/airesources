@@ -1,0 +1,51 @@
+{
+  "resource_id": 299,
+  "name": "Stanford HAI - AI Index Report 2024",
+  "organization": "Stanford HAI",
+  "report_type": "REPORT",
+  "year": 2024,
+  "publication_date": "2025-10-22",
+  "short_description": "Stanford HAI - AI Index Report 2024. Online resource covering AI developments, research, and industry insights.",
+  "long_description": "# Stanford HAI - AI Index Report 2024\n\n## Overview\nThe 2024 AI Index Report | Stanford HAIThe 2024 AI Index ReportWelcome to the seventh edition of the AI Index report. The 2024 Index is our most comprehensive to date and arrives at an important moment when AI’s influence on society has never been more pronounced.Download The 2024 ReportAccess the Public DataPast ReportsSkip Carousel ContentThe 2025 AI Index ReportThe 2023 AI Index ReportThe AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence (HAI), led by the AI Index Steering Committee, an interdisciplinary group of experts from across academia and industry.The 2022 AI Index ReportThe AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence (HAI), led by the AI Index Steering Committe\n\n## Technologies & Frameworks Mentioned\n\nGPT-4, Gemini\n\n## Resource Information\n\n- **Type:** Website\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Stanford HAI"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://hai.stanford.edu/ai-index/2024-ai-index-report"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 298
+}

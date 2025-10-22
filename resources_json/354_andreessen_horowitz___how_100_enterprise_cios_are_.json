@@ -1,0 +1,51 @@
+{
+  "resource_id": 354,
+  "name": "Andreessen Horowitz - How 100 Enterprise CIOs Are Building and Buying Gen AI in 2025",
+  "organization": "Andreessen Horowitz",
+  "report_type": "REPORT",
+  "year": 2025,
+  "publication_date": "2025-10-22",
+  "short_description": "Andreessen Horowitz - How 100 Enterprise CIOs Are Building and Buying Gen AI in 2025. Online resource covering AI developments, research, and industry insights.",
+  "long_description": "# Andreessen Horowitz - How 100 Enterprise CIOs Are Building and Buying Gen AI in 2025\n\n## Overview\nHow 100 Enterprise CIOs Are Building and Buying Gen AI in 2025 | Andreessen Horowitz How 100 Enterprise CIOs Are Building and Buying Gen AI in 2025 Sarah Wang, Shangda Xu, Justin Kahl, and Tugce Erten share Copy Link Email X LinkedIn Facebook Hacker News WhatsApp Flipboard Reddit Table of Contents Table of Contents Posted June 10, 2025 Just over a year ago, we highlighted 16 changes to the way enterprises approached building and buying gen AI. Since then, the landscape has continued to evolve quickly—so we revisited our conversations with over two dozen enterprise buyers and surveyed 100 CIOs across 15 industries to help founders understand how these leaders are using, buying, and budgeting for gen AI in 2025 and beyond.1 Even in a field where the only constant is change, the gen AI market\n\n## Key Findings\n\n1. Organizations are much more sophisticated at mixing and matching multiple models to optimize across both performance and cost. OpenAI, Google, and Anthropic took dominant overall market share in our survey while Meta and Mistral were popular among open source options.\n2. To give founders a more nuanced look at what’s top of mind for enterprise buyers today, we’ll dig into these shifts in resourcing, models, procurement, and application usage below.\n3. Budgets are bigger than expected with no signs of slowing down\n4. Gen AI spend graduates to permanent budget lines\n5. The multi-model world is here to stay and model differentiation—not commoditization—is the key driver\n6. Model landscape is crowded but clear leadership is emerging\n7. Newer model providers like xAI are seeing strong interest and early testing out of the gate—reminiscent of last year’s behavior and a reminder that model market share remains dynamic.\n8. Closed source price-to-performance ratio has become more compelling for non-frontier models\n9. Fine-tuning viewed as less necessary as model capabilities improve\n10. As model capabilities improve, most enterprises aren’t seeing as much ROI on fine-tuning as last year and mainly opt for open source models for highly cost-sensitive use cases.\n11. Enterprises optimistic on reasoning models and poised to scale quickly\n12. Buying process for models increasingly resembles traditional enterprise software procurement, complete with checklists and price sensitivity\n13. Hosting preferences still vary widely, though enterprises have quickly built trust for model providers over the last year\n14. Switching costs are rising as AI tackles more complex tasks\n15. Enterprises are increasingly referencing external benchmarks as quasi-“Magic Quadrants” as an initial filter for model selection\n\n## Technologies & Frameworks Mentioned\n\nLLMs, GPT-4o, GPT-4, Claude, Gemini\n\n## Resource Information\n\n- **Type:** Website\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Andreessen Horowitz"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://a16z.com/ai-enterprise-2025/"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

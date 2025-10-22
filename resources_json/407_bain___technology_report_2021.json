@@ -1,0 +1,55 @@
+{
+  "resource_id": 407,
+  "name": "Bain - Technology Report 2021",
+  "organization": "Bain",
+  "report_type": "REPORT",
+  "year": 2021,
+  "publication_date": "2025-10-22",
+  "short_description": "Bain - Technology Report 2021. Comprehensive 92-page analysis covering AI trends, research, industry adoption, and strategic insights.",
+  "long_description": "# Bain - Technology Report 2021\n\n## Overview\nThis work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment, and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does not constitute advice of any kind, is not intended to be used for investment purposes, and neither Bain & C\n\n## Key Findings\n\n1. Technology-fueled growth across all sectors is poised to accelerate .\n2. Technology as an enabler. It’s increasingly clear that tech-\n3. The next chapters of cloud computing. Our clients know\n4. Nonmarket influences. Regulator and geopolitical relations\n5. A common refrain in tech is that companies with the most data win.\n6. faster deployment and less time to real value creation;\n7. always running the most up-to-date and secure version; and\n8. the ability to offload more IT tasks to a remote vendor.\n9. Embrace the cloud operating model. Selling and delivering continuous cloud services and\n10. Transform Ops to DevOps. While development teams have followed Agile principles for some\n11. Boost consumption through investments in customer success. The shift to a service model calls\n12. Pivot go-to-market to the cloud and digital. Leaders redesign their marketing and selling for\n13. Whom are we targeting with our marketing message? A Tech Unicorn has probably empowered\n14. How do they want to buy? A Tech Unicorn will almost invariably want “pay-by-the-drink” or\n15. What ecosystem partnerships do we need? A Tech Unicorn might evaluate the product through\n\n## Notable Statistics & Metrics\n\n- growth of the hyperscalers, some of the fastest-growing value\n- Within the technology industry, the unprecedented growth of the hyperscalers has overshadowed\n- than $1 billion each (so-called unicorns).\n- 100%80%60%40%20%0\n- source of future growth. There are now about 20 million Internet-connected GM vehicles worldwide.\n- 25% of its workforce.\n- hamper competition. That’s according to Bain’s analysis of all $300 million-plus acquisitions, totaling\n- more than $150 billion, from 2005 to 2020 by the five US hyperscalers: Alphabet, Amazon, Apple,\n- had a neutral effect on consumers and competition, we found that 72% of US hyperscaler M&A\n- consumers rises to 89% when the Google and Microsoft acquisitions of Motorola’s and Nokia’s handset\n- Notes: Includes all outright acquisitions over $300 million (2005–2020) by Amazon, Apple, Facebook, Alphabet, and Microsoft; value and impact assessed\n- up 43%–50% of the US grocery market and include regional companies and major drugstores; Kroger and Walmart were testing delivery in select markets in 2016\n\n## Technologies & Frameworks Mentioned\n\nNet Promoter ScoreSM and Net Promoter System, Satmetrix System, App\nGitHub\nFast Search\nand Transfer\nKiva\nSystem, Kiva System, Privacy Shield Framework, Nervana System, Transformer, GPT-3, BERT, BERTa, GPT-2, BERT-large, Switch Transformer model\n\n## Resource Information\n\n- **Pages:** 92\n- **File Size:** 7.52 MB\n- **Publisher:** Adobe InDesign 16.4 (Windows)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Bain"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Bain_-_Technology_Report_2021.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Bain_-_Technology_Report_2021.png"
+  ],
+  "primary_links": [
+    "https://www.bain.com/insights/topics/technology-report/2021"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 403
+}

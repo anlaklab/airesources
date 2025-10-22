@@ -1,0 +1,55 @@
+{
+  "resource_id": 406,
+  "name": "Bain - Technology Report 2022",
+  "organization": "Bain",
+  "report_type": "REPORT",
+  "year": 2022,
+  "publication_date": "2025-10-22",
+  "short_description": "Don’t Count Out Growth Equity Investors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 How to Compete and Win in the Multicloud World . . . . . . . . . . . . . . . . . . . . . . . . . . 10 Web3 Could Rewrite the Rules of User Identity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 US-China Decoupling Accelerates, and Shockwaves Spread . . . . . . . . . . . . ",
+  "long_description": "# Bain - Technology Report 2022\n\n## Overview\nCopyright © 2022 Bain & Company, Inc. All rights reserved. This work is based on secondary market research, analysis of financial information available or provided to Bain & Company and a range of interviews with industry participants. Bain & Company has not independently verified any such information provided or available to Bain and makes no representation or warranty, express or implied, that such information is accurate or complete. Projected market and financial information, analyses and conclusions contained herein are based on the information described above and on Bain & Company’s judgment and should not be construed as definitive forecasts or guarantees of future performance or results. The information and analysis herein does not constitute advice of any kind, is not intended\n\n## Key Findings\n\n1. Parker DeRensis; and Eric Sheng, vice president, Data Science, wrote its chapters.\n2. The underlying technological and business model innovation that made this possible remain sound .\n3. Develop the skills to sense disruption. No industry or company is safe from disruption. Invest in\n4. Commit to major investments. Most companies will need to become tech-native. That may require\n5. Get good at scaling. An incumbent may never be as innovative as a founder able to raise $100 million,\n6. ISV valuations declined even more steeply, even as their revenue growth often exceeded expectations.\n7. Customers’ willingness to pay a premium for best-of-breed solutions. Multicloud ISVs have an\n8. Strong customer preference for cloud infrastructure flexibility. Multicloud ISV solutions that\n9. Relatively limited benefit from scale. ISVs are more likely to succeed when this key advantage of\n10. ISVs are in a good position to win when best-in-class technology and cloud infrastructure flexibility\n11. On-premise originators. On-premise natives providing infrastructure and analytics, including\n12. Multicloud infrastructure software vendors (ISVs). Cloud-native, hybrid-native (combining\n13. Hyperscalers. The largest cloud service providers that have built a growing portfolio of services\n14. ISVs and hyperscalers will engage in fierce competition when best-in-breed technology may be\n15. Hyperscalers could capture the majority of profit pools when they have a distinct technological\n\n## Notable Statistics & Metrics\n\n- companies and software companies with more than $50 million in revenue over the last 12 months; revenue growth based on July 2022 last 12 months/\n- Companies with revenue growth of 40% or less Companies with revenue growth of more than 40%\n- valuations of $1 billion or more .\n- a group, they reached a value of roughly $4 trillion to $5 trillion before the recent market correction,\n- exceeding $100 million in a single funding round—to help relatively mature companies pursue\n- quick scaling. Some 30% of companies that went public in 2020 had raised more than $100 million\n- before their IPO, compared with 7% in 2015. This made it possible for Space X (valued at approximately\n- $125 billion) and Shein (at approximately $100 billion) to grow to huge valuations while still private\n- and helped Uber’s IPO reach $70 billion-plus and Kuaishou Technology’s debut in the range of $150\n- billion to $160 billion. Once public, growth-backed software companies continued to perform. Among\n- software companies, growth equity-backed tech companies account for only 8% of revenue, but 19%\n- of growth, 14% of sales and marketing spending, and 13% of research and development spending.\n\n## Technologies & Frameworks Mentioned\n\nM\nCisco\nAvaya\nAspect Technology\nNoble System, Software\nOkta\nServiceNow\nHubSpot\nVeeva System, Collaboration\nConsumption model\n\n## Resource Information\n\n- **Pages:** 92\n- **File Size:** 7.19 MB\n- **Publisher:** Adobe InDesign 17.3 (Windows)\n",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [
+    "artificial-intelligence",
+    "research",
+    "industry-report"
+  ],
+  "organizations": [
+    "Bain"
+  ],
+  "focus_areas": [
+    "AI Research",
+    "Industry Trends"
+  ],
+  "industries": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "pdf_files": [
+    "https://s3.anlak.es/ai-resources/pdfs/Bain_-_Technology_Report_2022.pdf"
+  ],
+  "thumbnail_urls": [
+    "https://s3.anlak.es/ai-resources/thumbnails/Bain_-_Technology_Report_2022.png"
+  ],
+  "primary_links": [
+    "https://www.bain.com/insights/topics/technology-report/2022"
+  ],
+  "featured": true,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": 403
+}

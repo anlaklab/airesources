@@ -1,0 +1,39 @@
+{
+  "resource_id": null,
+  "name": "The University of Sydney - The Skills Horizons 2026",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://ses.library.usyd.edu.au/bitstream/handle/2123/34269/2026-skills-horizon.pdf"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

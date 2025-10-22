@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Stanford HAI - AI Index Report 2017",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://hai.stanford.edu/assets/files/ai-index-2017-annual-report.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://hai.stanford.edu/ai-index/2017-ai-index-report"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "IDC white paper - The untapped value of unstructured data",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://cloud.app.box.com/s/8jn28aniv99w59jlsh9t4wc473o55yuu?_gl=1*ppfqq0*_gcl_au*MTA2NTM3NjEyMC4xNzYxMDU4ODA2"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.box.com/resources/unstructured-data-paper"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

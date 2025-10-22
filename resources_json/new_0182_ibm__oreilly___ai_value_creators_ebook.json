@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "IBM & O'Reilly - AI Value Creators ebook",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://download.bibis.ir/Books/Artificial-Intelligence/2025/AI%20Value%20Creators%20%28for%20True%20Epub%29%20%28Rob%20Thomas,%20Paul%20Zikopoulos%20%20Kate%20Soule%29_bibis.ir.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.ibm.com/es-es/campaign/ai-value-creators"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

@@ -1,0 +1,39 @@
+{
+  "resource_id": null,
+  "name": "Bain - Technology Report",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.bain.com/insights/topics/technology-report/"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

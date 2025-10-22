@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "KPMG - The Agentic AI Advantage",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/kpmg-agentic-ai-advantage.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://kpmg.com/us/en/articles/2025/the-agentic-ai-advantage.html"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

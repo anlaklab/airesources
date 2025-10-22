@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Google - Google’s Approach for Secure AI Agents: An Introduction",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://research.google/pubs/an-introduction-to-googles-approach-for-secure-ai-agents/"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

@@ -1,0 +1,39 @@
+{
+  "resource_id": null,
+  "name": "The Rise of the Agentic Workforce",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.prosus.com/~/media/Files/P/prosus-corp-v2/documents/new-prosus-report-explores-the-rise-of-ai-agents-in-the-workplace.pdf"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

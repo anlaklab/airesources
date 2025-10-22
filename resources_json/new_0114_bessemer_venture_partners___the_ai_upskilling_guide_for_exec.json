@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Bessemer Venture Partners - The AI Upskilling Guide for Executives",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://www.bvp.com/assets/uploads/2025/06/AI-Upskilling-Guide-for-executives-Bessemer-Venture-Partners-PDF.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.bvp.com/atlas/the-ai-upskilling-guide-for-executives"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

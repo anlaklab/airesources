@@ -1,0 +1,39 @@
+{
+  "resource_id": null,
+  "name": "20VC",
+  "organization": "",
+  "report_type": "PODCAST",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.youtube.com/playlist?list=PLnJFlI3aINuUNaznonoFEgMUGLBiLmB-w"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

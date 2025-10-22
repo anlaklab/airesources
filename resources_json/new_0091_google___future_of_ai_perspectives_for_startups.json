@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Google - Future of AI: Perspectives for Startups",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://services.google.com/fh/files/misc/google_cloud_future_of_ai_perspectives_for_startups_2025.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://cloud.google.com/resources/content/future-of-ai-report"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

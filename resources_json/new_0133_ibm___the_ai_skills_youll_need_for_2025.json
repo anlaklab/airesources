@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "IBM - The AI skills you’ll need for 2025",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://www.ibm.com/downloads/documents/us-en/11630e2b96302ccc"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2025"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

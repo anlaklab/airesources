@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Deloitte - Deloitte’s State of AI in the Enterprise, 5th Edition report (2022)",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2024/us-ai-institute-state-of-ai-fifth-edition.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/state-of-ai-2022.html"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

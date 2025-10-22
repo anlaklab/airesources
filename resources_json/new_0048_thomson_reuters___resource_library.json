@@ -1,0 +1,39 @@
+{
+  "resource_id": null,
+  "name": "Thomson Reuters - Resource Library",
+  "organization": "",
+  "report_type": "ARTICLE",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://legal.thomsonreuters.com/en/insights#t=insights&sort=%40tr_wpublishedtime%20descending&f:@tr_wpagetype=[Report%7CSpecial%20Report]"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "Adobe - 2025 AI and Digital Trends",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://business.adobe.com/assets/pdfs/resources/reports/media-and-entertainment-digital-trends/digital-trends-2025-media-dt-infographic-uk-en.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://business.adobe.com/resources/digital-trends-report.html#ai-and-digital-trends"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

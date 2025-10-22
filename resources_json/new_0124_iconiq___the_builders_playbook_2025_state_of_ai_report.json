@@ -1,0 +1,41 @@
+{
+  "resource_id": null,
+  "name": "ICONIQ - The Builder's Playbook (2025 State of AI Report)",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+  "pdf_files": [
+    "https://cdn.prod.website-files.com/65d0d38fc4ec8ce8a8921654/68597d5a182d2e4fc3ab6433_ICONIQ%20Analytics_Insights_The_AI_Builders_Playbook_2025.pdf"
+  ],
+  "thumbnail_urls": [],
+  "primary_links": [
+    "https://www.iconiqcapital.com/growth/reports/2025-state-of-ai"
+  ],
+  "featured": false,
+  "status": "DRAFT",
+  "language": "English",
+  "parent_id": null
+}

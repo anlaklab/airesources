@@ -1,0 +1,354 @@
+// ═══════════════════════════════════════════════════════════════
+// AI RESOURCES DATABASE SCHEMA
+// Complete schema for managing AI reports, resources, and content
+// ═══════════════════════════════════════════════════════════════
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────
+// ENUMERATIONS
+// ─────────────────────────────────────────────
+
+enum ResourceType {
+  REPORT            // Individual reports, whitepapers, books, ebooks
+  ONLINE_RESOURCE   // Blogs, websites, tools, newsletters, GitHub repos
+  VIDEO             // Individual videos
+  TOOL              // Tools, models, Excel files, statistics
+}
+
+enum SeriesType {
+  ANNUAL_REPORT     // Annual report series (e.g., "State of AI Report")
+  QUARTERLY_REPORT  // Quarterly publications
+  MONTHLY_REPORT    // Monthly publications
+  VIDEO_SERIES      // YouTube series, podcast series
+  BLOG_SERIES       // Blog post series
+  COURSE_SERIES     // Online course with multiple parts
+}
+
+enum PublicationStatus {
+  DRAFT             // Not yet published
+  PUBLISHED         // Live and visible
+  ARCHIVED          // No longer active but preserved
+  SCHEDULED         // Scheduled for future publication
+}
+
+// ─────────────────────────────────────────────
+// SERIES MANAGEMENT (Multi-year/Multi-period Resources)
+// ─────────────────────────────────────────────
+
+model Series {
+  id                  Int                   @id @default(autoincrement())
+  uuid                String                @unique @default(uuid())
+
+  // Core information
+  name                String                // e.g., "IBM Global AI Adoption Index"
+  slug                String                @unique // URL-friendly: "ibm-global-ai-adoption-index"
+  seriesType          SeriesType            @map("series_type")
+  description         String?               @db.Text
+
+  // Organization
+  organizationId      Int                   @map("organization_id")
+  organization        Organization          @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+
+  // Timeline
+  startYear           Int?                  @map("start_year")
+  endYear             Int?                  @map("end_year")      // null = ongoing
+  frequency           String?               // "Annual", "Quarterly", "Monthly"
+
+  // Display & metadata
+  coverImageUrl       String?               @map("cover_image_url")
+  primaryColor        String?               @map("primary_color") // Brand color for the series
+  featured            Boolean               @default(false)
+  status              PublicationStatus     @default(PUBLISHED)
+
+  // SEO & discovery
+  tags                String[]
+  industries          String[]
+  focusAreas          String[]              @map("focus_areas")
+
+  // Relations
+  editions            Resource[]            @relation("SeriesEditions")
+
+  // Stats (computed)
+  totalEditions       Int                   @default(0) @map("total_editions")
+
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+
+  @@index([slug])
+  @@index([organizationId])
+  @@index([seriesType])
+  @@index([startYear, endYear])
+  @@index([status])
+  @@map("series")
+}
+
+// ─────────────────────────────────────────────
+// ORGANIZATIONS / AUTHORS
+// ─────────────────────────────────────────────
+
+model Organization {
+  id                  Int              @id @default(autoincrement())
+  uuid                String           @unique @default(uuid())
+
+  // Core info
+  name                String           @unique
+  slug                String           @unique
+  type                String?          // "Company", "Research Lab", "University", "Individual"
+
+  // Branding
+  logoUrl             String?          @map("logo_url")
+  websiteUrl          String?          @map("website_url")
+  primaryColor        String?          @map("primary_color")
+
+  // Details
+  description         String?          @db.Text
+  country             String?
+  founded             Int?             // Year founded
+
+  // Social links
+  linkedinUrl         String?          @map("linkedin_url")
+  twitterUrl          String?          @map("twitter_url")
+  githubUrl           String?          @map("github_url")
+
+  // Relations
+  resources           Resource[]
+  series              Series[]
+
+  // Stats
+  totalResources      Int              @default(0) @map("total_resources")
+
+  createdAt           DateTime         @default(now()) @map("created_at")
+  updatedAt           DateTime         @updatedAt @map("updated_at")
+
+  @@index([slug])
+  @@index([type])
+  @@map("organization")
+}
+
+// ─────────────────────────────────────────────
+// MAIN RESOURCES TABLE
+// ─────────────────────────────────────────────
+
+model Resource {
+  id                  Int                   @id @default(autoincrement())
+  uuid                String                @unique @default(uuid())
+
+  // Core classification
+  resourceType        ResourceType          @map("resource_type")
+  name                String
+  slug                String                @unique
+
+  // Organization
+  organizationId      Int                   @map("organization_id")
+  organization        Organization          @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+
+  // Series relationship (null for standalone resources)
+  seriesId            Int?                  @map("series_id")
+  series              Series?               @relation("SeriesEditions", fields: [seriesId], references: [id], onDelete: Cascade)
+
+  // Edition info (for series items)
+  year                Int?                  // 2024
+  period              String?               // "Q1", "January", "Episode 5"
+  editionNumber       Int?                  @map("edition_number") // Sequential number within series
+  isLatestEdition     Boolean               @default(false) @map("is_latest_edition")
+
+  // Content
+  shortDescription    String                @db.Text @map("short_description")
+  longDescription     String                @db.Text @map("long_description")
+  rawContent          String?               @db.Text @map("raw_content") // Full text if available
+
+  // Files & Media
+  pdfUrls             String[]              @map("pdf_urls")
+  thumbnailUrls       String[]              @map("thumbnail_urls")
+  videoUrls           String[]              @map("video_urls")
+
+  // Links
+  primaryUrl          String?               @map("primary_url")         // Main webpage
+  downloadUrl         String?               @map("download_url")        // Direct download link
+  githubUrl           String?               @map("github_url")
+  documentationUrl    String?               @map("documentation_url")
+
+  // Metadata
+  publicationDate     DateTime?             @map("publication_date")
+  totalFileSize       String?               @map("total_file_size")
+  pageCount           Int?                  @map("page_count")          // For PDFs
+  duration            String?               // For videos: "45:30"
+  language            String?               @default("en")
+  license             String?
+
+  // Type-specific fields
+  reportType          String?               @map("report_type")         // For REPORT: "Research Report", "Whitepaper"
+  toolType            String?               @map("tool_type")           // For TOOL: "Model", "Dataset", "API"
+
+  // Taxonomies
+  tags                String[]
+  industries          String[]
+  focusAreas          String[]              @map("focus_areas")
+
+  // Structured data (JSONB)
+  keyFindings         Json?                 @map("key_findings")
+  frameworks          Json?
+  statistics          Json?
+  caseStudies         Json?                 @map("case_studies")
+
+  // Academic fields
+  authors             String[]              // Author names
+  citations           Int?
+  doi                 String?
+  arxivId             String?               @map("arxiv_id")
+
+  // Publishing & visibility
+  status              PublicationStatus     @default(DRAFT)
+  featured            Boolean               @default(false)
+
+  // Engagement metrics
+  viewCount           Int                   @default(0) @map("view_count")
+  downloadCount       Int                   @default(0) @map("download_count")
+  upvotes             Int                   @default(0)
+  downvotes           Int                   @default(0)
+  popularityScore     Float?                @map("popularity_score")
+
+  // Relations
+  sections            Section[]
+  collections         CollectionItem[]
+
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+  publishedAt         DateTime?             @map("published_at")
+
+  @@index([slug])
+  @@index([organizationId])
+  @@index([seriesId, year])
+  @@index([resourceType])
+  @@index([status])
+  @@index([publicationDate])
+  @@index([featured])
+  @@index([popularityScore])
+  @@map("resource")
+}
+
+// ─────────────────────────────────────────────
+// STRUCTURED CONTENT SECTIONS
+// ─────────────────────────────────────────────
+
+model Section {
+  id          Int             @id @default(autoincrement())
+
+  resourceId  Int             @map("resource_id")
+  resource    Resource        @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+
+  order       Int             // Display order
+  sectionType String          @map("section_type") // "introduction", "methodology", "findings", "conclusion"
+  title       String
+  content     String          @db.Text
+  metadata    Json?           // Additional structured data
+
+  createdAt   DateTime        @default(now()) @map("created_at")
+  updatedAt   DateTime        @updatedAt @map("updated_at")
+
+  @@index([resourceId, order])
+  @@map("section")
+}
+
+// ─────────────────────────────────────────────
+// COLLECTIONS (Curated Lists)
+// ─────────────────────────────────────────────
+
+model Collection {
+  id                  Int                   @id @default(autoincrement())
+  uuid                String                @unique @default(uuid())
+
+  // Core info
+  name                String
+  slug                String                @unique
+  description         String?               @db.Text
+
+  // Display
+  coverImageUrl       String?               @map("cover_image_url")
+  featured            Boolean               @default(false)
+  status              PublicationStatus     @default(DRAFT)
+
+  // Curator (could be linked to users in future)
+  curatorName         String?               @map("curator_name")
+
+  // Relations
+  items               CollectionItem[]
+
+  // Stats
+  itemCount           Int                   @default(0) @map("item_count")
+
+  createdAt           DateTime              @default(now()) @map("created_at")
+  updatedAt           DateTime              @updatedAt @map("updated_at")
+
+  @@index([slug])
+  @@index([status])
+  @@map("collection")
+}
+
+model CollectionItem {
+  id            Int          @id @default(autoincrement())
+
+  collectionId  Int          @map("collection_id")
+  collection    Collection   @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+
+  resourceId    Int          @map("resource_id")
+  resource      Resource     @relation(fields: [resourceId], references: [id], onDelete: Cascade)
+
+  order         Int          // Display order within collection
+  note          String?      @db.Text // Curator's note about why this resource is included
+
+  addedAt       DateTime     @default(now()) @map("added_at")
+
+  @@unique([collectionId, resourceId])
+  @@index([collectionId, order])
+  @@map("collection_item")
+}
+
+// ─────────────────────────────────────────────
+// TAXONOMY TABLES (Optional - for better normalization)
+// ─────────────────────────────────────────────
+
+model Tag {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  slug      String   @unique
+  category  String?  // "technology", "industry", "topic"
+  useCount  Int      @default(0) @map("use_count")
+
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@index([category])
+  @@map("tag")
+}
+
+model Industry {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  slug      String   @unique
+  icon      String?  // Icon name or URL
+  useCount  Int      @default(0) @map("use_count")
+
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@map("industry")
+}
+
+model FocusArea {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  slug      String   @unique
+  color     String?  // Hex color for UI
+  useCount  Int      @default(0) @map("use_count")
+
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@map("focus_area")
+}

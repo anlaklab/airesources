@@ -1,0 +1,46 @@
+{
+  "_comment": "COMPLETE AI RESOURCE JSON TEMPLATE - Follow RESOURCE_CREATION_GUIDE.md for instructions",
+
+  "resource_id": null,
+  "name": "",
+  "organization": "",
+  "report_type": "REPORT",
+  "year": null,
+  "publication_date": null,
+  "short_description": "",
+  "long_description": "",
+
+  "key_findings": {
+    "count": 30,
+    "items": []
+  },
+
+  "frameworks": {
+    "count": 20,
+    "items": []
+  },
+
+  "statistics": {
+    "count": 30,
+    "items": []
+  },
+
+  "case_studies": {
+    "count": 15,
+    "items": []
+  },
+
+  "tags": [],
+  "organizations": [],
+  "focus_areas": [],
+  "industries": [],
+
+  "pdf_files": [],
+  "thumbnail_urls": [],
+  "primary_links": [],
+
+  "featured": false,
+  "status": "PUBLISHED",
+  "language": "English",
+  "parent_id": null
+}

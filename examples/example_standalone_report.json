@@ -1,0 +1,51 @@
+{
+  "name": "Attention Is All You Need",
+  "organization": "Google Research",
+  "resourceType": "REPORT",
+  "shortDescription": "Introducing the Transformer architecture for neural networks",
+  "longDescription": "This groundbreaking paper introduced the Transformer model architecture, which relies entirely on attention mechanisms and eliminates recurrence. It has become the foundation for modern NLP models like GPT, BERT, and many others.",
+  "summary": "The Transformer model eliminates recurrent neural networks in favor of attention mechanisms, achieving state-of-the-art results in machine translation while being more parallelizable. This architecture has since become the foundation for modern language models including GPT, BERT, and T5, fundamentally reshaping natural language processing research and applications.",
+  "website": "https://arxiv.org/abs/1706.03762",
+  "downloadUrl": "https://arxiv.org/pdf/1706.03762.pdf",
+  "publicationDate": "2017-06-12",
+  "publicationYear": 2017,
+  "language": "en",
+  "reportType": "Research Paper",
+  "tags": [
+    "Transformers",
+    "NLP",
+    "Deep Learning",
+    "Attention Mechanism",
+    "Neural Networks"
+  ],
+  "industries": [
+    "Research",
+    "Technology",
+    "AI/ML"
+  ],
+  "focusAreas": [
+    "Natural Language Processing",
+    "Deep Learning Architecture",
+    "AI Research"
+  ],
+  "keyFindings": [
+    "Transformer architecture achieved 28.4 BLEU score on WMT 2014 English-to-German translation, surpassing previous best results by over 2 BLEU points",
+    "Self-attention mechanism allows for significantly more parallelization than recurrent models, reducing training time from 3.5 days to 12 hours on 8 GPUs",
+    "Multi-head attention enables the model to attend to information from different representation subspaces at different positions",
+    "The architecture generalizes well to other tasks beyond translation, including English constituency parsing with 92.7% F1 score"
+  ],
+  "authors": [
+    "Ashish Vaswani",
+    "Noam Shazeer",
+    "Niki Parmar",
+    "Jakob Uszkoreit",
+    "Llion Jones",
+    "Aidan N. Gomez",
+    "Lukasz Kaiser",
+    "Illia Polosukhin"
+  ],
+  "arxivId": "1706.03762",
+  "doi": "10.48550/arXiv.1706.03762",
+  "featured": true,
+  "published": true
+}

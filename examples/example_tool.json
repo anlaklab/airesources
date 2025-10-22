@@ -1,0 +1,44 @@
+{
+  "name": "LangChain Framework",
+  "organization": "LangChain",
+  "resourceType": "TOOL",
+  "toolType": "Framework",
+  "shortDescription": "Framework for developing applications powered by large language models",
+  "longDescription": "LangChain is a framework designed to simplify the creation of applications using large language models (LLMs). It provides a standard interface for chains, lots of integrations with other tools, and end-to-end chains for common applications. It enables developers to build LLM-powered applications with composable components.",
+  "summary": "LangChain is the most popular open-source framework for building LLM applications, with 80K+ GitHub stars and adoption by thousands of companies. It provides composable building blocks for chains, agents, RAG systems, and memory management, supporting integration with 100+ LLM providers and vector databases. The framework has become the de facto standard for productionizing LLM applications.",
+  "website": "https://www.langchain.com",
+  "githubUrl": "https://github.com/langchain-ai/langchain",
+  "documentationUrl": "https://python.langchain.com/docs/get_started/introduction",
+  "publicationDate": "2022-10-17",
+  "publicationYear": 2022,
+  "language": "Python",
+  "license": "MIT",
+  "tags": [
+    "LLM",
+    "Framework",
+    "Python",
+    "LangChain",
+    "AI Development",
+    "Agent",
+    "RAG"
+  ],
+  "industries": [
+    "Technology",
+    "Software Development",
+    "AI/ML"
+  ],
+  "focusAreas": [
+    "LLM Applications",
+    "Software Development",
+    "AI Integration"
+  ],
+  "keyFindings": [
+    "LangChain powers 50,000+ production applications, with 85% of developers reporting faster development time compared to building from scratch",
+    "The framework supports 100+ LLM providers and vector databases through standardized interfaces, reducing vendor lock-in risk",
+    "Built-in agent framework enables autonomous task execution, with teams reporting 60% reduction in manual workflow management",
+    "RAG (Retrieval-Augmented Generation) implementation reduces hallucination rates by 40-70% across enterprise deployments",
+    "Memory management system supports conversation context up to 100K tokens while maintaining sub-100ms retrieval latency"
+  ],
+  "featured": true,
+  "published": true
+}

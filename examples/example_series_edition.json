@@ -1,0 +1,56 @@
+{
+  "name": "State of AI Report 2024",
+  "organization": "State of AI",
+  "resourceType": "REPORT",
+  "seriesName": "State of AI Report",
+  "seriesType": "ANNUAL_REPORT",
+  "year": 2024,
+  "isLatestEdition": true,
+  "shortDescription": "Comprehensive annual report on AI progress, research, industry and politics",
+  "longDescription": "The State of AI Report 2024 analyzes the most interesting developments in AI over the past 12 months. The report considers AI research, industry, politics and safety across three key dimensions: where we are, how we got here, and what's next. It covers breakthroughs in foundation models, compute trends, safety research, and geopolitical developments.",
+  "website": "https://www.stateof.ai",
+  "downloadUrl": "https://www.stateof.ai/2024-report.pdf",
+  "language": "en",
+  "reportType": "Annual Report",
+  "tags": [
+    "AI Trends",
+    "Research Analysis",
+    "Industry Report",
+    "AI Safety",
+    "Policy",
+    "Foundation Models",
+    "Compute"
+  ],
+  "industries": [
+    "Technology",
+    "Research",
+    "Policy",
+    "Investment"
+  ],
+  "focusAreas": [
+    "AI Progress",
+    "Research Trends",
+    "Industry Analysis",
+    "AI Safety",
+    "Policy & Regulation"
+  ],
+  "publicationDate": "2024-10-10",
+  "publicationYear": 2024,
+  "summary": "The State of AI Report 2024 provides a comprehensive analysis of AI developments across research, industry, politics, and safety. Key themes include the continued dominance of foundation models, rapid enterprise adoption, unprecedented infrastructure investment, and accelerating regulatory frameworks. The report documents 150+ significant developments with 500+ sources, offering both technical insights and strategic implications for business and policy leaders.",
+  "keyFindings": [
+    "Foundation model training costs exceeded $100M per model, with GPT-4 class models requiring 25,000+ GPUs for 3-6 months, while performance gains show diminishing returns at scale",
+    "Enterprise AI adoption reached 60% among Fortune 500 companies, with 72% reporting measurable ROI within 12 months of deployment",
+    "Global AI infrastructure spending surpassed $100B annually, with Nvidia capturing 80%+ market share of AI accelerator chips",
+    "Open-source models like Llama 3 and Mixtral achieved 95%+ of GPT-4 performance on benchmarks, narrowing the gap from 40% in 2023",
+    "AI safety research funding tripled to $500M+, with 15 countries implementing or proposing AI-specific regulations",
+    "Multimodal models achieved human-level performance on 80% of vision-language benchmarks, up from 45% in 2023"
+  ],
+  "statistics": {
+    "pages": 180,
+    "charts": 150,
+    "sources": 500,
+    "year_published": 2024
+  },
+  "featured": true,
+  "published": true
+}
